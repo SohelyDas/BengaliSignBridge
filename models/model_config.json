@@ -1,0 +1,32 @@
+{
+  "classes": [
+    "hello",
+    "thank_you",
+    "water",
+    "help",
+    "yes",
+    "no",
+    "please",
+    "sorry",
+    "food",
+    "name"
+  ],
+  "labels": {
+    "hello": "নমস্কার",
+    "thank_you": "ধন্যবাদ",
+    "water": "জল",
+    "help": "সাহায্য",
+    "yes": "হ্যাঁ",
+    "no": "না",
+    "please": "দয়া করে",
+    "sorry": "দুঃখিত",
+    "food": "খাবার",
+    "name": "নাম"
+  },
+  "sequence_length": 30,
+  "feature_dim": 132,
+  "num_classes": 10,
+  "rf_test_accuracy": 0.0,
+  "lstm_test_accuracy": 0.0,
+  "trained_at": "2026-11-05T18:21:46.525195"
+}
