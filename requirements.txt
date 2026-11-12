@@ -1,0 +1,7 @@
+numpy<2.0.0
+opencv-contrib-python
+mediapipe==0.10.21
+scikit-learn
+tensorflow==2.17.1
+jax==0.4.35
+jaxlib==0.4.35

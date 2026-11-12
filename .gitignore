@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+isl-bengali/venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+
+# Model files
+*.h5
+*.keras
+*.pkl
